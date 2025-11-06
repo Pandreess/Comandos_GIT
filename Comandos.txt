@@ -1,4 +1,4 @@
-//COMANDOS ESENCIALES 2.0
+//COMANDOS ESENCIALES 3.0
 
 git --version //Mira versionc actual del programa
 cmdkey /l //Mirar licencias u/o credenciales de los usuarios
