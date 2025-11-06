@@ -1,0 +1,18 @@
+//COMANDOS ESENCIALES
+
+git --version //Mira versionc actual del programa
+cmdkey /l //Mirar licencias u/o credenciales de los usuarios
+cmdkey /delete:git:https://github.com  //Eliminar credencial
+git init //Iniciar repositorio
+git config --global user.name // Crear usuario
+git config user.name //Mirar el usuario
+git config --global user.email //asignar correo
+git config user.email //Mirar el correo
+git branch -M main //Cambio de rama
+git status //mirar el estado
+git add .  //prepararlo para subirlo al repositorio (GitHub)
+git commit -m"Primer Version" //En espera para enviar
+git remote add origin https://github.com/Pandreess/Comandos_GIT.git //Donde lo va enviar
+git push -u origin main //Subirlo repositorio
+git add README.md //Añadir descripcion proyecto
+gtt clone // Clonar repositorio
